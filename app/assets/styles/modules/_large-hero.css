@@ -20,7 +20,7 @@
     }
   }
 
-  &_title {
+  &__title {
     color: $mainBlue;
     font-weight: 300;
     margin: 0;
