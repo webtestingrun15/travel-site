@@ -1,5 +1,9 @@
 # Demo travel website
 
+[Live site](https://webtestingrun15.github.io/travel-site/)
+
+[Project Details](https://sheldonfweb.com/portfolio/travel-website/)
+
 An example travel website that was built using modern tools using:
 
 * npm
@@ -14,7 +18,3 @@ An example travel website that was built using modern tools using:
 * Git
 
 This site was created from a PSD and converted to HTML and made responsive for desktops, tablets,and mobile devices.
-
-[Live site](https://webtestingrun15.github.io/travel-site/)
-
-[Project Details](https://sheldonfweb.com/portfolio/travel-website/)
